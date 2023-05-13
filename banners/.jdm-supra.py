@@ -24,17 +24,26 @@ banner = f"""{Fore.MAGENTA}
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠒⠲⠤⢤⣄⣀⣀⣀⣤⣈⣤⣤⠤⣴⣿⣥⠤⠴⠒⠚⠋⠉⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 {Fore.RED}
-		   dMMMMMP dMMMMb  dMMMMMMMMb             
-		      dMP dMP VMP dMP"dMP"dMP             
-		     dMP dMP dMP dMP dMP dMP              
-		dK .dMP dMP.aMP dMP dMP dMP               
-		VMMMP" dMMMMP" dMP dMP dMP                
-                                          
-		   .dMMMb  dMMMMMP .aMMMb dMMMMMMP .aMMMb 
-		  dMP" VP dMP     dMP"VMP   dMP   dMP"dMP 
-	  	  VMMMb  dMMMP   dMP       dMP   dMMMMMP  
-		dP .dMP dMP     dMP.aMP   dMP   dMP dMP   
-		VMMMP" dMMMMMP  VMMMP"   dMP   dMP dMP    
+ ▄▄▄██▀▀▀▓█████▄  ███▄ ▄███▓   
+   ▒██   ▒██▀ ██▌▓██▒▀█▀ ██▒   
+   ░██   ░██   █▌▓██    ▓██░   
+▓██▄██▓  ░▓█▄   ▌▒██    ▒██    
+ ▓███▒   ░▒████▓ ▒██▒   ░██▒   
+ ▒▓▒▒░    ▒▒▓  ▒ ░ ▒░   ░  ░   
+ ▒ ░▒░    ░ ▒  ▒ ░  ░      ░   
+ ░ ░ ░    ░ ░  ░ ░      ░      
+ ░   ░      ░           ░      
+          ░                    
+  ██████ ▓█████  ▄████▄        
+▒██    ▒ ▓█   ▀ ▒██▀ ▀█        
+░ ▓██▄   ▒███   ▒▓█    ▄       
+  ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒      
+▒██████▒▒░▒████▒▒ ▓███▀ ░      
+▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░      
+░ ░▒  ░ ░ ░ ░  ░  ░  ▒         
+░  ░  ░     ░   ░              
+      ░     ░  ░░ ░            
+                ░     
          {Fore.GREEN}                               
                 [by: Iván]@is-not-avaliable
 """
