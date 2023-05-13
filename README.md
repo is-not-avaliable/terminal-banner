@@ -1,5 +1,5 @@
 # terminal-banner
-supra banner for terminal
+banners for terminal
 
 <br/>
 
